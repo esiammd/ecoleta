@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Projeto da NLW - Next Leel Week 1.0
+  Projeto Desenvolvido na Next Leel Week 1.0
 </h4>
 
 <p align="center">
